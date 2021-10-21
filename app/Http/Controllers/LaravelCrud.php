@@ -32,10 +32,10 @@ class LaravelCrud extends Controller
                 "total_maintenance"=>$request->input('total_maintenance'),
                 
             
-                $num1 = $_POST('total_maintenance'),
+                /*$num1 = $_POST('total_maintenance'),
                 $num2 = $_POST('unit_entitlement'),
                 $a = $num1 + $num2,
-                "monthly_maintencance"=>$request->input('$a'),
+                "monthly_maintencance"=>$request->input('$a'),*/
 
                 
 
